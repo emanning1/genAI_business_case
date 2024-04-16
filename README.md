@@ -1,1 +1,1 @@
-# genAI_business_case
+A small website created by ChatGPT to showcase the data and organization process as well as the write up for this assignment. 
